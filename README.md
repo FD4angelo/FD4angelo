@@ -8,6 +8,8 @@ Fora do trabalho, estudo banco de dados e engenharia de dados. No momento estou 
 
 **Ferramentas:** SQL Server · PostgreSQL · Python (pandas, Jupyter) · Docker · Kafka · Git · Excel
 
+[LinkedIn](https://www.linkedin.com/in/fabio-alexandre-d-angelo-4bb020170/)
+
 ---
 
 ## Fabio D'Angelo
@@ -19,3 +21,5 @@ I work with call center data. I started in Control Desk, managing dialer campaig
 Outside work I'm studying databases and data engineering. Right now I'm playing around with Docker, Kafka and Debezium, and every now and then I study a bit of security.
 
 **Tools:** SQL Server · PostgreSQL · Python (pandas, Jupyter) · Docker · Kafka · Git · Excel
+
+[LinkedIn](https://www.linkedin.com/in/fabio-alexandre-d-angelo-4bb020170/)
